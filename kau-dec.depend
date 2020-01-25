@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1389165231 source:c:\documents and settings\tarshoduze\my documents\programming\c\kau-dec\kau-dec\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<cmath>
+
+1388838990 c:\documents and settings\tarshoduze\my documents\programming\c\kau-dec\kau-dec\oscillator.h
+
+1388839556 source:c:\documents and settings\tarshoduze\my documents\programming\c\kau-dec\kau-dec\oscillator.cpp
+	"Oscillator.h"
+	<cmath>
+
